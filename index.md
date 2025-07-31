@@ -39,12 +39,12 @@ Demos are available at [here](https://aannoonnyymous.github.io/Diff-V2M/).
   </thead>
   <tbody>
     <tr>
-      <td><video width="230" controls preload="none"><source src="video/BGM-demo/212_7.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/BGM-demo/212_7-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/BGM-demo/212_7-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/BGM-demo/212_7-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/BGM-demo/212_7-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/BGM-demo/212_7-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="230" controls preload="none" loading="lazy"><source src="video/BGM-demo/212_7.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="230" controls preload="none" loading="lazy"><source src="video/BGM-demo/212_7-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="230" controls preload="none" loading="lazy"><source src="video/BGM-demo/212_7-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="230" controls preload="none" loading="lazy"><source src="video/BGM-demo/212_7-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="230" controls preload="none" loading="lazy"><source src="video/BGM-demo/212_7-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="230" controls preload="none" loading="lazy"><source src="video/BGM-demo/212_7-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
     </tr>
     
     <tr>
