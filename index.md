@@ -89,180 +89,191 @@ Demos are available at [here](https://aannoonnyymous.github.io/Diff-V2M/).
   </table>
 </details>
 <h3 align="center" style="color: black; font-weight: bold;">SymMV Test Dataset</h3>
+<details>
+  <summary><strong>Click to show videos</strong></summary>
 
-<table>
-  <thead>
-    <tr>
-      <th>Diff-V2M (ours)</th>
-      <th>VidMuse</th>
-      <th>GVMGen</th>
-      <th>MuMu-LLaMA</th>
-      <th>Video2Music</th>
-      <th>CMT</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/179_7.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/179_7-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/179_7-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/179_7-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/179_7-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/179_7-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-    </tr>
-    
-    <tr>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/212_5.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/212_5-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/212_5-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/212_5-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/212_5-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/212_5-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-    </tr>
-
-    <tr>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/153_1.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/153_1-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/153_1-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/153_1-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/153_1-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/153_1-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-    </tr>
-
-    <tr>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/227_0.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/227_0-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/227_0-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/227_0-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/227_0-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/227_0-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-    </tr>
-
-    <tr>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/959_9.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/959_9-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/959_9-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/959_9-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/959_9-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/SymMV-demo/959_9-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-    </tr>
-  </tbody>
-</table>
-
-<h3 align="center" style="color: black; font-weight: bold;">V2M-Bench Test Dataset</h3>
-
-<table>
-  <thead>
-    <tr>
-      <th>Diff-V2M (ours)</th>
-      <th>VidMuse</th>
-      <th>GVMGen</th>
-      <th>MuMu-LLaMA</th>
-      <th>Video2Music</th>
-      <th>CMT</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/1-q8C_c-nlM_1.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/1-q8C_c-nlM_1-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/1-q8C_c-nlM_1-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/1-q8C_c-nlM_1-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/1-q8C_c-nlM_1-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/1-q8C_c-nlM_1-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-    </tr>
-    
-    <tr>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/3Gz8hP1QEO0_7.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/3Gz8hP1QEO0_7-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/3Gz8hP1QEO0_7-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/3Gz8hP1QEO0_7-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/3Gz8hP1QEO0_7-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/3Gz8hP1QEO0_7-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-    </tr>
-
-    <tr>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/xv4LGfH5MWw_0.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/xv4LGfH5MWw_0-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/xv4LGfH5MWw_0-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/xv4LGfH5MWw_0-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/xv4LGfH5MWw_0-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/xv4LGfH5MWw_0-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-    </tr>
-
-    <tr>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/ZTttCukWDgw_1.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/ZTttCukWDgw_1-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/ZTttCukWDgw_1-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/ZTttCukWDgw_1-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/ZTttCukWDgw_1-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/ZTttCukWDgw_1-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-    </tr>
-
-    <tr>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/ZrZ3rUgdkzU_0.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/ZrZ3rUgdkzU_0-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/ZrZ3rUgdkzU_0-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/ZrZ3rUgdkzU_0-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/ZrZ3rUgdkzU_0-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="230" controls preload="none"><source src="video/V2M-Bench-demo/ZrZ3rUgdkzU_0-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-    </tr>
-  </tbody>
-</table>
-
-## More Samples Generated by Diff-V2M
-<table>
-  <tr>
-    <td>
-      <video width="345" controls preload="none">
-        <source src="video/BGM-demo/3_6.mp4" type="video/mp4">
-      </video>
-    </td>
-    <td>
-      <video width="345" controls preload="none">
-        <source src="video/SymMV-demo/287_0.mp4" type="video/mp4">
-      </video>
-    </td>
-    <td>
-      <video width="345" controls preload="none">
-        <source src="video/BGM-demo/8_4.mp4" type="video/mp4">
-      </video>
-    </td>
-  </tr>
+  <br>
+  <table>
+    <thead>
+      <tr>
+        <th>Diff-V2M (ours)</th>
+        <th>VidMuse</th>
+        <th>GVMGen</th>
+        <th>MuMu-LLaMA</th>
+        <th>Video2Music</th>
+        <th>CMT</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><video width="230" controls><source src="video/SymMV-demo/179_7.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/179_7-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/179_7-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/179_7-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/179_7-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/179_7-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
+      
+      <tr>
+        <td><video width="230" controls><source src="video/SymMV-demo/212_5.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/212_5-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/212_5-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/212_5-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/212_5-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/212_5-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
   
-  <tr>
-    <td>
-      <video width="345" controls preload="none">
-        <source src="video/SymMV-demo/21_6.mp4" type="video/mp4">
-      </video>
-    </td>
-    <td>
-      <video width="345" controls preload="none">
-        <source src="video/SymMV-demo/1056_0.mp4" type="video/mp4">
-      </video>
-    </td>
-    <td>
-      <video width="345" controls preload="none">
-        <source src="video/SymMV-demo/85_9.mp4" type="video/mp4">
-      </video>
-    </td>
-  </tr>
+      <tr>
+        <td><video width="230" controls><source src="video/SymMV-demo/153_1.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/153_1-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/153_1-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/153_1-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/153_1-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/153_1-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
+  
+      <tr>
+        <td><video width="230" controls><source src="video/SymMV-demo/227_0.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/227_0-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/227_0-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/227_0-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/227_0-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/227_0-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
+  
+      <tr>
+        <td><video width="230" controls><source src="video/SymMV-demo/959_9.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/959_9-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/959_9-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/959_9-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/959_9-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/SymMV-demo/959_9-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+<h3 align="center" style="color: black; font-weight: bold;">V2M-Bench Test Dataset</h3>
+<details>
+  <summary><strong>Click to show videos</strong></summary>
 
-  <tr>
-    <td>
-      <video width="345" controls preload="none">
-        <source src="video/V2M-Bench-demo/ZnViLnjcWzM_3.mp4" type="video/mp4">
-      </video>
-    </td>
-    <td>
-      <video width="345" controls preload="none">
-        <source src="video/V2M-Bench-demo/ZV8zA3dFEO4_3.mp4" type="video/mp4">
-      </video>
-    </td>
-    <td>
-      <video width="345" controls preload="none">
-        <source src="video/BGM-demo/14_10.mp4" type="video/mp4">
-      </video>
-    </td>
-  </tr>
-</table>
+  <br>
+  <table>
+    <thead>
+      <tr>
+        <th>Diff-V2M (ours)</th>
+        <th>VidMuse</th>
+        <th>GVMGen</th>
+        <th>MuMu-LLaMA</th>
+        <th>Video2Music</th>
+        <th>CMT</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/1-q8C_c-nlM_1.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/1-q8C_c-nlM_1-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/1-q8C_c-nlM_1-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/1-q8C_c-nlM_1-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/1-q8C_c-nlM_1-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/1-q8C_c-nlM_1-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
+      
+      <tr>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/3Gz8hP1QEO0_7.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/3Gz8hP1QEO0_7-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/3Gz8hP1QEO0_7-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/3Gz8hP1QEO0_7-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/3Gz8hP1QEO0_7-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/3Gz8hP1QEO0_7-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
+  
+      <tr>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/xv4LGfH5MWw_0.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/xv4LGfH5MWw_0-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/xv4LGfH5MWw_0-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/xv4LGfH5MWw_0-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/xv4LGfH5MWw_0-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/xv4LGfH5MWw_0-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
+  
+      <tr>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/ZTttCukWDgw_1.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/ZTttCukWDgw_1-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/ZTttCukWDgw_1-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/ZTttCukWDgw_1-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/ZTttCukWDgw_1-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/ZTttCukWDgw_1-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
+  
+      <tr>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/ZrZ3rUgdkzU_0.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/ZrZ3rUgdkzU_0-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/ZrZ3rUgdkzU_0-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/ZrZ3rUgdkzU_0-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/ZrZ3rUgdkzU_0-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls><source src="video/V2M-Bench-demo/ZrZ3rUgdkzU_0-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
+## More Samples Generated by Diff-V2M
+<details>
+  <summary><strong>Click to show videos</strong></summary>
+
+  <br>
+  <table>
+    <tr>
+      <td>
+        <video width="345" controls>
+          <source src="video/BGM-demo/3_6.mp4" type="video/mp4">
+        </video>
+      </td>
+      <td>
+        <video width="345" controls>
+          <source src="video/SymMV-demo/287_0.mp4" type="video/mp4">
+        </video>
+      </td>
+      <td>
+        <video width="345" controls>
+          <source src="video/BGM-demo/8_4.mp4" type="video/mp4">
+        </video>
+      </td>
+    </tr>
+    
+    <tr>
+      <td>
+        <video width="345" controls>
+          <source src="video/SymMV-demo/21_6.mp4" type="video/mp4">
+        </video>
+      </td>
+      <td>
+        <video width="345" controls>
+          <source src="video/SymMV-demo/1056_0.mp4" type="video/mp4">
+        </video>
+      </td>
+      <td>
+        <video width="345" controls>
+          <source src="video/SymMV-demo/85_9.mp4" type="video/mp4">
+        </video>
+      </td>
+    </tr>
+  
+    <tr>
+      <td>
+        <video width="345" controls>
+          <source src="video/V2M-Bench-demo/ZnViLnjcWzM_3.mp4" type="video/mp4">
+        </video>
+      </td>
+      <td>
+        <video width="345" controls>
+          <source src="video/V2M-Bench-demo/ZV8zA3dFEO4_3.mp4" type="video/mp4">
+        </video>
+      </td>
+      <td>
+        <video width="345" controls>
+          <source src="video/BGM-demo/14_10.mp4" type="video/mp4">
+        </video>
+      </td>
+    </tr>
+  </table>
+</details>
