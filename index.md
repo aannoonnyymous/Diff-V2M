@@ -24,73 +24,9 @@ Video-to-music (V2M) generation aims to create music that aligns with visual con
 Demos are available at [here](https://aannoonnyymous.github.io/Diff-V2M/).
 
 ## Comparisons with SOTA
-<h3 align="center" style="color: black; font-weight: bold;">BGM909 Test Dataset </h3>
-<details>
-  <summary><strong>Click to show videos</strong></summary>
-
-  <br>
-  <table>
-    <thead>
-      <tr>
-        <th>Diff-V2M (ours)</th>
-        <th>VidMuse</th>
-        <th>GVMGen</th>
-        <th>MuMu-LLaMA</th>
-        <th>Video2Music</th>
-        <th>CMT</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/212_7.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/212_7-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/212_7-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/212_7-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/212_7-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/212_7-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      </tr>
-      
-      <tr>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/103_13.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/103_13-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/103_13-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/103_13-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/103_13-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/103_13-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      </tr>
-  
-      <tr>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/88_3.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/88_3-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/88_3-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/88_3-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/88_3-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/88_3-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      </tr>
-  
-      <tr>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/184_0.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/184_0-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/184_0-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/184_0-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/184_0-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/184_0-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      </tr>
-  
-      <tr>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/600_11.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/600_11-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/600_11-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/600_11-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/600_11-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/600_11-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      </tr>
-    </tbody>
-  </table>
-</details>
 <h3 align="center" style="color: black; font-weight: bold;">SymMV Test Dataset</h3>
 <details>
-  <summary><strong>Click to show videos</strong></summary>
+  <summary style="cursor: pointer; color: #1f6feb;"><strong>Click to show videos</strong></summary>
 
   <br>
   <table>
@@ -152,9 +88,73 @@ Demos are available at [here](https://aannoonnyymous.github.io/Diff-V2M/).
     </tbody>
   </table>
 </details>
+<h3 align="center" style="color: black; font-weight: bold;">BGM909 Test Dataset </h3>
+<details>
+  <summary style="cursor: pointer;"><strong>Click to show videos</strong></summary>
+
+  <br>
+  <table>
+    <thead>
+      <tr>
+        <th>Diff-V2M (ours)</th>
+        <th>VidMuse</th>
+        <th>GVMGen</th>
+        <th>MuMu-LLaMA</th>
+        <th>Video2Music</th>
+        <th>CMT</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/212_7.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/212_7-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/212_7-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/212_7-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/212_7-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/212_7-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
+      
+      <tr>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/103_13.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/103_13-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/103_13-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/103_13-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/103_13-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/103_13-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
+  
+      <tr>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/88_3.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/88_3-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/88_3-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/88_3-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/88_3-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/88_3-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
+  
+      <tr>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/184_0.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/184_0-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/184_0-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/184_0-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/184_0-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/184_0-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
+  
+      <tr>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/600_11.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/600_11-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/600_11-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/600_11-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/600_11-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+        <td><video width="230" controls loading="lazy"><source src="video/BGM-demo/600_11-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      </tr>
+    </tbody>
+  </table>
+</details>
 <h3 align="center" style="color: black; font-weight: bold;">V2M-Bench Test Dataset</h3>
 <details>
-  <summary><strong>Click to show videos</strong></summary>
+  <summary style="cursor: pointer;"><strong>Click to show videos</strong></summary>
 
   <br>
   <table>
