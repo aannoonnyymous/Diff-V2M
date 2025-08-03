@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Diff-V2M: A Hierarchical Conditional Diffusion Model with Generalizable Rhythmic Modeling for Video-to-Music Generation"
+title: "Diff-V2M: A Hierarchical Conditional Diffusion Model with Explicit Rhythmic Modeling for Video-to-Music Generation"
 ---
 <style>
 /* 修改页面主标题字体大小 */
